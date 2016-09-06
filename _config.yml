@@ -1,4 +1,3 @@
-layout_spectrum: 0.8999681924469769
 typography_spectrum: 0.40865446347743273
 color:
   brandStrength: 0.12829916970804334
@@ -11,4 +10,6 @@ color:
     - '#FFB03B'
     - '#B64926'
     - '#8E2800'
+layout_spectrum: 0.8999681924469769
 name: Hooman Litter Box
+title: My stuff
